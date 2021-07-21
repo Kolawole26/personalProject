@@ -1,0 +1,19 @@
+ a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    border-radius: 25px;
+    padding: 0 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .btn {
+        border-radius: 25px;
+        padding: 5px 5px;
+        width: 100px;
+    }
+}
+
+
